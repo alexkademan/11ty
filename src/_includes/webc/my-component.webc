@@ -1,0 +1,13 @@
+this stuff here is whats what?
+
+<p>THis is an old paragraph here...</p>
+
+<style>
+	body { 
+		font-weight: bold; 
+		color: red; 
+	}
+	p {
+		color: green;
+	}
+</style>

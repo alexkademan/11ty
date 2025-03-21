@@ -1,0 +1,16 @@
+---
+layout: "layout.webc"
+title: "Page Template"
+---
+
+# page.webc...
+
+this is a paragraph.
+
+## A title
+
+A paragraph
+
+> a blockquote
+
+<my-component></my-component>
